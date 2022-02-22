@@ -1,0 +1,326 @@
+.wholepage{
+    width: 100%;
+    height: }
+    
+    
+    
+
+
+.div1{
+    width:100%;
+    height: 40px ;
+   background-color: #ece8e8;
+    }
+
+.svgphone{
+    width: 12px;
+    padding-left: 160px;
+    padding-top: 8px;
+    
+} 
+.svgmobile{
+    width: 10px;
+    padding-left: 40px;
+    padding-top: 8px;
+    
+}
+
+.svgenvolope{
+    width: 15px;
+    padding-left: 35px;
+    padding-top: 8px;
+    
+}
+
+.svglocation{
+    width: 12px;
+    padding-left: 35px;
+    padding-top: 8px;
+    
+}
+
+
+
+.number{
+    font-size: medium;
+    font-weight: 100;
+    padding-left: 10px;
+    color: rgb(114, 111, 111);
+    
+} 
+
+.div2{
+    width: 100%;
+    height:90px;
+    background-color: white;
+  
+    
+}
+
+.ku{
+    color:#2196F3;
+    font-size:40px;
+    font-weight: bolder;
+    margin-left: 0px;
+    position: absolute;
+    padding-top: 10px;
+    
+    
+    
+}
+
+.font{
+    color:#03A9F3;
+    font-size: 20px;
+    font-weight:bolder;
+    margin-left: 50px;
+    position: absolute;
+    padding-top: 50px;
+
+}
+
+.home{
+    width: 25px;
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: 45px;
+}
+
+.login{
+    width: 25px;
+    position: absolute;
+    margin-left: 1250px;
+    margin-top: 45px;
+}
+
+.youtube{
+    width: 50px;
+    position: absolute;
+    margin-left: 1300px;
+    margin-top: 35px;
+}
+.search{
+    width:25px;
+    position: absolute;
+    margin-left: 1375px;
+    margin-top: 47px;
+}
+
+
+
+.kuhsimg {
+    
+    width: 1530px;
+   
+    }
+
+.div3{
+     width: 1400px;
+     height: 35px;
+     background-color: #ADD8E6;
+     margin-top: 7px;
+     margin-left: 52px;
+
+
+    }
+
+.text{
+    color: red;
+    padding-top: 8px;
+    font-size: small;
+    font-weight: bold;
+    padding-left: 100px;
+}   
+
+.text2{
+    color: #03A9F3;
+    padding-top: 8px;
+    font-size: small;
+    margin-left: 0px;
+}
+
+
+.div4{
+    width: 100%;
+    height: 250px;
+    background-color: white;
+    margin-top: 5px;
+
+}
+
+.innertabs{
+    width: 325px;
+    height: 35px;
+    background-color: #37BF8E;
+    margin-left: 40px;
+    border-top-left-radius: 10px ;
+    border-top-right-radius: 10px;
+    margin-top: 0px;
+}
+
+
+.icons{
+    width: 25px;
+    padding-left: 5px;
+    padding-top: 5px;
+    
+
+}
+
+.img{
+    
+    width: 325px;
+    padding-top: 200px;
+    margin-left: 40px;
+    position: absolute;
+    border: solid;
+    border-radius: 15px;
+    border-color: #37BF8E;
+     border-bottom-left-radius:15px ;
+     border-bottom-right-radius: 15px;
+    
+}
+
+.div5{
+    width: 100%;
+    height: 950px;
+    background-color: #37BF8E;
+}
+
+ .head{
+     
+     padding-top: 5px;
+     color: white;
+     font-weight: 200;
+
+ }
+
+ .firline{
+     padding-left: 30px;
+     color: white;
+     font-weight: 500;
+ }
+
+ .div6{
+     width: 100%;
+     height: 350px;
+     background-color: white;
+
+ }
+
+ .banner1{
+     width:300px;
+     height:50px;
+     background-color: #2DA0FF;
+     margin-top: 30px;
+     margin-left: 200px;
+ }
+
+ .banner2{
+     width: 300px;
+     height: 50px;
+     background-color: #E91E63;
+     margin-top: -50px;
+     margin-left: 550px;
+ }
+
+ .banner3{
+     width: 300px;
+     height: 50px;
+     background-color: #00B8E6;
+     margin-top: -50px;
+     margin-left: 900px;
+ }
+
+ .text3{
+     color: white;
+     padding-left: 112px;
+     padding-top: 12px;
+     font-weight: 500;
+     font-size: x-large;
+ }
+
+ .div7{
+     width: 100%;
+     height: 400px;
+     background-color: white;
+     display: flex;
+
+ }
+
+ .div71{
+     width: 50%;
+     background-color: white;
+ }
+
+ .div72{
+     width: 50%;
+ }
+ .kuname{
+     position: absolute;
+     color: #37BF91;
+     font-size: xx-large;
+     font-weight: 500;
+     margin-left: 200px;
+     padding-top: 0px;
+ }
+
+ .about{
+     padding-top: 70px;
+     padding-left: 200px;
+     padding-right: 60px;
+     font-size: large;
+     color: #AFAFAF;
+     font-weight: 100;
+     line-height: 35px;
+     font-family: 'Times New Roman', Times, serif;
+ }
+
+ .div8{
+     width: 100%;
+     height: 260px;
+ }
+
+ .arifimg{
+     width: 170px;
+     padding-left: 350px;
+     padding-top: 50px;
+ }
+ 
+ .arifnm{
+     color: #EF5A63;
+     font-size: xx-large;
+     padding-left: 200px;
+    
+ }
+
+ .arif2{
+     color: #AFAFAF;
+     font-size: large;
+     font-weight: 600;
+     position: absolute;
+     
+     }
+
+  .div9{
+      width: 100%;
+      height: 250px;
+      padding-top: 30px;
+
+  }
+
+  .div10{
+      width: 100%;
+      height: 70px;
+      background-color: #3568D2;
+      
+  }
+
+  .footertxt{
+      color: white;
+  }
+
+  .footerdiv{
+      padding-left: 380px;
+      padding-top: 20px;
+  }
